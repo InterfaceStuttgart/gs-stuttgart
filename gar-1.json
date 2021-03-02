@@ -75,12 +75,6 @@
          "id":7,
          "name":"override",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"depth",
-                 "type":"int",
-                 "value":3
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":45,
@@ -92,8 +86,6 @@
          "id":3,
          "name":"floorLayer",
          "objects":[],
-         "offsetx":-1.12607099143207,
-         "offsety":0,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -110,7 +102,7 @@
         {
          "columns":7,
          "firstgid":1,
-         "image":"images/floortileset.png",
+         "image":"images\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":1,
@@ -133,7 +125,7 @@
         {
          "columns":4,
          "firstgid":50,
-         "image":"images/if.png",
+         "image":"images\/if.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -147,7 +139,7 @@
         {
          "columns":4,
          "firstgid":58,
-         "image":"images/auto2.png",
+         "image":"images\/auto2.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -167,7 +159,7 @@
         {
          "columns":3,
          "firstgid":70,
-         "image":"images/office1.png",
+         "image":"images\/office1.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
