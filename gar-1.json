@@ -110,7 +110,7 @@
         {
          "columns":7,
          "firstgid":1,
-         "image":"floortileset.png",
+         "image":"images/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":1,
@@ -133,7 +133,7 @@
         {
          "columns":4,
          "firstgid":50,
-         "image":"if.png",
+         "image":"images/if.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -147,7 +147,7 @@
         {
          "columns":4,
          "firstgid":58,
-         "image":"auto2.png",
+         "image":"images/auto2.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -167,7 +167,7 @@
         {
          "columns":3,
          "firstgid":70,
-         "image":"office1.png",
+         "image":"images/office1.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
