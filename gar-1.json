@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"z8.json"
+                 "value":"z8.json#eingang-garage"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -18,7 +18,7 @@
  "layers":[
         {
          "id":15,
-         "image":"images/",
+         "image":"images",
          "name":"Bildebene 1",
          "opacity":1,
          "type":"imagelayer",
@@ -66,7 +66,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"z8.json"
+                 "value":"z8.json#eingang-zettach"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -187,7 +187,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"images/floortileset.png",
+         "image":"images\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -217,7 +217,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"images/fenster.png",
+         "image":"images\/fenster.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -231,7 +231,7 @@
         {
          "columns":4,
          "firstgid":321,
-         "image":"images/if.png",
+         "image":"images\/if.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -245,7 +245,7 @@
         {
          "columns":8,
          "firstgid":329,
-         "image":"images/wand.png",
+         "image":"images\/wand.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -259,7 +259,7 @@
         {
          "columns":16,
          "firstgid":457,
-         "image":"images/tilesets_deviant_milkian_1.png",
+         "image":"images\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -273,7 +273,7 @@
         {
          "columns":15,
          "firstgid":713,
-         "image":"images/innenraum.png",
+         "image":"images\/innenraum.png",
          "imageheight":736,
          "imagewidth":496,
          "margin":0,
@@ -287,7 +287,7 @@
         {
          "columns":16,
          "firstgid":1058,
-         "image":"images/tilesets_deviant_milkian_1.png",
+         "image":"images\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1012,7 +1012,7 @@
         {
          "columns":24,
          "firstgid":1314,
-         "image":"images/rpg_mv_resized_tileset_by_poke101101_da2sv1e.png",
+         "image":"images\/rpg_mv_resized_tileset_by_poke101101_da2sv1e.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -1026,7 +1026,7 @@
         {
          "columns":3,
          "firstgid":1890,
-         "image":"images/z8.png",
+         "image":"images\/z8.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -1040,7 +1040,7 @@
         {
          "columns":1,
          "firstgid":1896,
-         "image":"images/kueche.png",
+         "image":"images\/kueche.png",
          "imageheight":160,
          "imagewidth":32,
          "margin":0,
