@@ -23,7 +23,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -41,7 +41,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -59,7 +59,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -77,7 +77,7 @@
                  "value":"z2a.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -95,7 +95,7 @@
                  "value":"gar-1.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -113,7 +113,7 @@
                  "value":"z8area"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -131,7 +131,7 @@
                  "value":"z8kitchen"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
