@@ -177,7 +177,7 @@
          "offsety":-1.42153549010141,
          "opacity":0.96,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -213,7 +213,7 @@
          "name":"weihnachtsdeko-wand",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -237,7 +237,7 @@
          "name":"weihnachtsdeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -249,7 +249,7 @@
          "name":"weihnachtdeko-vorne",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
